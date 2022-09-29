@@ -27,6 +27,8 @@ let nombre.apellido = "juan";
 let nombre( = "juan";
 let var const = "juan";
 */
+
+
 //alert(nombre);
 
 console.log(nombre);
@@ -52,7 +54,6 @@ console.log(typeof nombre);
 console.log(typeof edad);
 console.log(typeof temperatura);
 console.log(typeof hijos);
-
 
 
 
